@@ -1,3 +1,3 @@
 # CourseApp
 
-A new Flutter project smol quiz app, my irst try!
+A new Flutter project smol quiz app, my first try!
